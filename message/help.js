@@ -101,5 +101,5 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}addprem
   ≻ ${prefix}delprem
 
-`+'     \`\`\`Powered by Nodejs\`\`\`'
+`+'     \`\`\`Powered by Bagus\`\`\`'
 }
