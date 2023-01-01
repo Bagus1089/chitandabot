@@ -16,6 +16,7 @@ const {
 	useMultiFileAuthState,
 	delay
 } = require("@adiwajshing/baileys")
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 const figlet = require("figlet");
 const fs = require("fs");
 const moment = require('moment')
